@@ -1,0 +1,3 @@
+# credenciais (falsas) hardcoded
+AWS_ACCESS_KEY_ID = "AKIAFAKEEXAMPLE1234"
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYfakeKEY"
